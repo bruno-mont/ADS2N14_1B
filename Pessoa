@@ -1,0 +1,18 @@
+public class Pessoa{
+
+       private int idade;
+       private double altura
+       private double peso;
+       private string cor;
+
+public int setIdade(int id){ idade = id;}
+public double setAltura(int id){ idade = id;}
+public double setPeso(int id){ idade = id;}
+public string setCor(int id){ idade = id;}
+
+public int getIdade(){return idade;}
+public double getAltura(){return altura;}
+public double getPeso(){return peso;}
+public string getCor(){return cor;}
+
+}
